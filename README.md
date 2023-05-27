@@ -1,9 +1,9 @@
-Tik-Tok-Toe 
+Tik-Tak-Toe 
 
-Welcome to Tik-Tok-Toe, a classic game of strategy and fun!
+Welcome to Tik-Tak-Toe, a classic game of strategy and fun!
 
 Description
-Tik-Tok-Toe is a two-player game played on a 3x3 grid. Players take turns marking X's and O's on the grid, aiming to get three of their symbols in a row, either horizontally, vertically, or diagonally. It's a game that's easy to learn but offers endless possibilities for strategic thinking and competition.
+Tik-Tok-Toe is a two-player game played on a 3x3 grid. Players take turns marking #'s and @'s on the grid, aiming to get three of their symbols in a row, either horizontally, vertically, or diagonally. It's a game that's easy to learn but offers endless possibilities for strategic thinking and competition.
 
 Features :-
 
